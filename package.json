@@ -1,7 +1,7 @@
 {
   "name": "kit_gulp-es2015-browserify",
   "version": "0.0.1",
-  "description": "",
+  "description": "Front-end workflow using Gulp 4, ES2015, Browserify, SASS, browserSync and more ",
   "private": true,
   "main": "src/index.html",
   "scripts": {
