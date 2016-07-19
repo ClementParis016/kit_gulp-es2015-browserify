@@ -1,5 +1,6 @@
 .DS_STORE
 *.log
-node_modules/
-.tmp/
-dist/
+*.zip
+node_modules
+.tmp
+dist

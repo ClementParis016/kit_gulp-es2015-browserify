@@ -1,5 +1,6 @@
-'use strict';
-
 import { $ } from './utils';
 
-console.log('Welcome 🙃');
+const welcomeElement = document.createElement('p');
+welcomeElement.textContent = 'Welcome 🙃';
+
+$('body').appendChild(welcomeElement);
